@@ -1,1 +1,1 @@
-# puppetee
+initialize node packages
